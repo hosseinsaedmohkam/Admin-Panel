@@ -8,9 +8,29 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "16.0.10",
-    "react": "19.2.1",
-    "react-dom": "19.2.1"
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@fontsource/cairo": "^5.2.7",
+    "@fontsource/vazirmatn": "^5.2.8",
+    "@fullcalendar/core": "^6.1.19",
+    "@fullcalendar/daygrid": "^6.1.19",
+    "@fullcalendar/interaction": "^6.1.19",
+    "@fullcalendar/react": "^6.1.19",
+    "@fullcalendar/timegrid": "^6.1.19",
+    "@mui/icons-material": "^7.3.6",
+    "@mui/material": "^7.3.6",
+    "@mui/x-data-grid": "^8.22.0",
+    "chart.js": "^4.5.1",
+    "leaflet": "^1.9.4",
+    "next": "^16.0.10",
+    "react": "^19.2.3",
+    "react-calendar": "^6.0.0",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "^19.2.3",
+    "react-leaflet": "^5.0.0",
+    "react-svg-worldmap": "^2.0.0-alpha.16",
+    "recharts": "^3.6.0",
+    "sweetalert2": "^11.26.10"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
