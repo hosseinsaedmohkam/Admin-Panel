@@ -8,7 +8,7 @@
 
 - Master : Parsa Ghorbanian 
 
-- Technologies Used : next.js , mui, js, css, Html 
+- Technologies Used : next.js , mui, recharts,Vercel, js, css, Html 
  
 - Created : 12/17/2025
 
