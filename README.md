@@ -19,13 +19,11 @@
 
 - Role - Frontend
   
+- How to reach me : with my [instagram](https://www.instagram.com/Hossein_saedmohkam.dev) and [linkedin](https://www.linkedin.com/in/Hossein-saedmohkam)
+  
 - # Parnian School
 _Where Learning Begins_
 🔗 https://trainingsitedesign.ir/learn-web-design/
-
-
-- How to reach me : with my [instagram](https://www.instagram.com/Hossein_saedmohkam.dev) and [linkedin](https://www.linkedin.com/in/Hossein-saedmohkam)
-
 
 
 ## Getting Started
